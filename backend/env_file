@@ -1,0 +1,8 @@
+module.exports = {
+    authSecret: '',
+    db:{
+        database: 'evsinv',
+        user: 'postgres',
+        password: 'evspatrimonio'
+    }
+}
